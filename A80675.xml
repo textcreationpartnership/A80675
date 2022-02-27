@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A counter-plot against popery. Suggested by way of short considerations, touching the necessity and usefulnesse of some agents, to correspond betwixt the Protestant churches, in matters of publike edification.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80675</idno>
+            <idno type="STC">Wing C6521</idno>
+            <idno type="STC">Thomason E141_20</idno>
+            <idno type="STC">ESTC R212746</idno>
+            <idno type="EEBO-CITATION">99871322</idno>
+            <idno type="PROQUEST">99871322</idno>
+            <idno type="VID">156564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156564)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E141[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A counter-plot against popery. Suggested by way of short considerations, touching the necessity and usefulnesse of some agents, to correspond betwixt the Protestant churches, in matters of publike edification.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, Anno Domini, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's device (McK. 310) on t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156564:1" rendition="simple:additions"/>
+            <p>A COVNTER-PLOT Againſt POPERY.</p>
+            <p>Suggeſted By way of ſhort conſiderations, touch<g ref="char:EOLhyphen"/>ing the neceſſity and uſefulneſſe of ſome agents, to correſpond betwixt the Proteſtant Churches, in matters of publike Edification.</p>
+            <figure>
+               <p>NOLI ALTVM SAPERE</p>
+            </figure>
+            <p>LONDON: Printed, Anno Domini, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156564:2"/>
+            <pb n="1" facs="tcp:156564:2"/>
+            <head>Short CONSIDERATIONS Touching The necesſity and uſefulneſſe of ſome Agents, to correſpond betwixt the proteſtant Churches in matters of publike Edifi<g ref="char:EOLhyphen"/>cation.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is certaine that ſince the Councell of Trent, Papiſts have taken up a joynt re<g ref="char:EOLhyphen"/>ſolution to overthrow all Proteſtant ſtates and Religion, either by open war, or policy, as occaſion ſhall be offered. Of this Councell the Pope is head, and to compaſſe his ends, the Princes of his Faction, and all the Or<g ref="char:EOLhyphen"/>ders of his Clergy are ſet a worke: amongſt the reſt the Jeſuits are the chiefe Agents, who although they be at variance in diverſe particulars with others, yet in this they, and all the reſt unanimouſly conſpire, &amp; with a great deale of Emulation ſtrive to goe before one another.</p>
+            <p n="2">2. It is knowne, that this purpoſe and aime is the
+<pb n="2" facs="tcp:156564:3"/>chiefe matter of all their Cabinet Councels, and that in all their publike Treatiſe with Proteſtants, all of them by the inſtigation and ſuggeſtion of the Popes inſtruments, they labour to gaine ground up<g ref="char:EOLhyphen"/>on us, and to this effect many ſpeciall conſultations have beene held at <hi>Rome</hi> by the Cardinals; and in all other places by the Biſhops and Jeſuites.</p>
+            <p n="3">3. By their conſtant and joynt conſpiracy in pro<g ref="char:EOLhyphen"/>ſecuting of this purpoſe, they have waſted many flouriſhing Churches, and made them quite deſolate, they have diminiſhed the ſtrength of many, and they have layed dangerous plots to ſubvert and trouble thoſe that are yet in any good caſe.</p>
+            <p n="4">4. Their proceedings are not taken to heart by the Proteſtants, neither is there any courſe obſerved to countermine their intentions; for which cauſe they are like to prevaile more and more. Chiefely, becauſe the manifold diviſions of Proteſtants which diſtract an I divide their intentions, and whereby they not onely neglect thoſe Machinations, but alſo helpe unto their owne overthrow, whiles they perſe<g ref="char:EOLhyphen"/>cute one another.</p>
+            <p n="5">5. It is not poſſible as yet to unite the Proteſtant Counſels in this, that their Temporall heads ſhould joyntly aime at the overthrow of Papiſtry, and com<g ref="char:EOLhyphen"/>bine themſelves together, in ſome conſtant courſe, to oppoſe it by their power, and correſpondency; which on the other ſide is long agoe effected.</p>
+            <p n="6">6. Therefore ſeeing the outward, and publike means cannot yet be improved becauſe of the Reaſons of State, and the differences of Religions, and opini<g ref="char:EOLhyphen"/>ons
+<pb n="3" facs="tcp:156564:3"/>amongſt Proteſtants, it is worthy of conſidera<g ref="char:EOLhyphen"/>tion, whether or no any other meanes might not bee ſet a worke, which in a more ſpirituall manner might countermine their proceedings.</p>
+            <p n="7">7. This meanes I conceive to be ſuch, as might be able with the aſſiſtance of God, powerfully to ſup<g ref="char:EOLhyphen"/>port the truth of the Goſpell, and by little and little joyn the intentions of the Proteſtants to correſpond one with another in matters of mutuall edification, and in the communion of certaine duties, whereby the ſcandals which occaſion the judgements of God, and their inſenſible overthrow be taken out of the way in due time.</p>
+            <p n="8">8. The meanes to ſupport powerfully the truth of the Goſpell is, 1. to gaine the common conſent of all Proteſtants to make a Fundamentall Confeſſion of their Chriſtian Religion, wherein they all ſhall a<g ref="char:EOLhyphen"/>gree, that by this meanes their Schiſmes may be ta<g ref="char:EOLhyphen"/>ken out of the way. 2. To procure that a body of practicall Divinity may be compiled, and fitted to the capacity of learned and unlearned, that all things belonging to godlineſſe and a good conſcience, may be contained in it, and ſo be received by all parties without diſpute, and become a meanes of publike edification in the Univerſities and Pulpits.</p>
+            <p n="9">9. The meanes to gaine the Fundamentall Con<g ref="char:EOLhyphen"/>feſſion, and to procure the body of practicall Divi<g ref="char:EOLhyphen"/>nity, are not difficult, but may eaſily be attained by few Agents, who might make it their worke to ſoli<g ref="char:EOLhyphen"/>cite the chiefe Divines, and ableſt men of all the Churches to correſpond together to this effect. For
+<pb n="4" facs="tcp:156564:4"/>if there were Agents maintained for Fundamentall Confeſſion, thence peace and unity would ariſe, and if the practice of Piety were propagated, and urged, by this meanes the ſcandals would ceaſe, and the Communion of Saints would be more and more en<g ref="char:EOLhyphen"/>tertained for mutuall edification.</p>
+            <p n="10">10. Both theſe workes are already ſet upon by ſome, and conſented unto by all, ſo that nothing is further requiſite, then to continue by the agency of of ſome fit correſpondents betwixt the Churches, the motion till it come to perfection, whereby (God willing) not onely the inward diviſions of Prote<g ref="char:EOLhyphen"/>ſtants will come to an end, but alſo the truth of the Goſpell will breake forth moſt invincibly to con<g ref="char:EOLhyphen"/>vince the conſciences of Papiſts, who thinke that in the Proteſtant Churches there is neither Chriſtiani<g ref="char:EOLhyphen"/>ty, Unity, nor Piety, but meere Hereſie, diviſion, and prophane licentiouſneſſe.</p>
+            <p n="11">11. For ſeeing it is certaine that <hi>Babilon</hi> will not fall by might or by power, but by the Spirit of the Lord of Hoſts, <hi>Zach.</hi> 4.6. it ſeemeth that the onely meanes to ſet the Spirit of God a worke in the hearts of his Servants, and to give him ſome occaſion to enter in<g ref="char:EOLhyphen"/>to the conſciences of the Papiſts, is firſt to labour to unite the faithfull Preachers of the Goſpell into a holy Communion, to perfect theſe moſt ſpirituall objects. And 2. to propoſe, by common conſent in the name of all Proteſtants, the irrefragable truth of Chriſtian Doctrine, and the undeniable duties of righteouſneſſe and holineſſe, to convince the conſci<g ref="char:EOLhyphen"/>ences of ſuch Papiſts, as are not wilfully and Athe<g ref="char:EOLhyphen"/>iſtically
+<pb n="5" facs="tcp:156564:4"/>blind, that we maintaine not ſuch abhomina<g ref="char:EOLhyphen"/>ble errors as they father upon us, but that our Reli<g ref="char:EOLhyphen"/>gion is the onely ſaving meanes of Salvation.</p>
+            <p n="12">12. The neceſſity and uſefulneſſe of theſe two workes may be ſhewed in this, that they will prove the onely meanes of joyning the intentions of Pro<g ref="char:EOLhyphen"/>teſtants in one ſpirituall purpoſe, which is moſt of all others materiall in the furthering of the Goſpell. 2. Of taking away publike ſcandals and offences which we give one unto another, and which Papiſts and Sects (not without ſome faire pretence) take at us all. 3. Of confirming ſaving truths. 4. Of propa<g ref="char:EOLhyphen"/>gating godlineſſe, and beating downe impiety, ſuper<g ref="char:EOLhyphen"/>ſtition and ignorance, which by this meanes muſt needs fall to the ground as <hi>Dagon</hi> did before the Arke of the Covenant.</p>
+            <p n="13">13. And indeed it may be wondred at, that hi<g ref="char:EOLhyphen"/>therto among ſo many endeavours, for the good of the common cauſe in Religion, and in ſo great plen<g ref="char:EOLhyphen"/>ty of ſpirituall and temporall meanes, where ſo many well affected profeſſors wiſh ſo earneſtly for the pro<g ref="char:EOLhyphen"/>ſperity of <hi>Sion,</hi> that this meanes hath not beene ſeri<g ref="char:EOLhyphen"/>ouſly thought upon and advanced, ſeeing it is the onely ſafe, laudable, commendable and infallible way to countermine the malicious practices of Papiſts, that ſeeke our overthrow with more diligence then we doe provide for our owne ſafety, and their con<g ref="char:EOLhyphen"/>verſion.</p>
+            <p>Now if there were but ſome hope to find a com<g ref="char:EOLhyphen"/>petent maintenance for the planting of a Seminary, (as it may be called) of a few Agents that apply their
+<pb n="6" facs="tcp:156564:5"/>ſtudies wholly to theſe enterpriſes, the meanes of bringing them to paſſe might be made ſo plaine that none ſhould be able to doubt thereof, and beſides this, there might be other matters joyntly intended by them, for the advancement of publike peace and all kind of ſolid Learning; which by themſelves might deſerve a peculiar Agency, if men knew the worth and conſequence of them, or were zea<g ref="char:EOLhyphen"/>lous to further good workes of a pub<g ref="char:EOLhyphen"/>like nature, for the love of God and a good Conſcience.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
